@@ -1,3 +1,4 @@
+<pre>
   _____           _         _____           _                                                            
  |_   _|         | |       / ____|         | |                                                            
    | |  _ __  ___| |_ __ _| |  __ _ __ __ _| |__                                                    
@@ -20,3 +21,4 @@ instaGrab.py [email] [password] [target username] [approximate number of photos 
 [approximate number of photos you wanna grab] = how many photos you wanna grab approximately
 
 Created by Spyridon Kaloudis
+</pre>
